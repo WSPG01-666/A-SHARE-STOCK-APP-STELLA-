@@ -1,0 +1,463 @@
+{
+  "initial_capital": 20000.0,
+  "cash": 35082.39,
+  "positions": [],
+  "trades": [
+    {
+      "id": 20,
+      "code": "sz002436",
+      "name": "兴森科技",
+      "buy_date": "2026-06-16",
+      "sell_date": "2026-06-18",
+      "buy_price": 44.1,
+      "sell_price": 52.06,
+      "quantity": 100,
+      "cost": 4410.0,
+      "revenue": 5206.0,
+      "profit": 789.23,
+      "profit_pct": 17.9,
+      "hold_days": 2
+    },
+    {
+      "id": 19,
+      "code": "sz000603",
+      "name": "盛达资源",
+      "buy_date": "2026-07-01",
+      "sell_date": "2026-07-02",
+      "buy_price": 25.41,
+      "sell_price": 24.72,
+      "quantity": 100,
+      "cost": 2541.0,
+      "revenue": 2472.0,
+      "profit": -72.21,
+      "profit_pct": -2.84,
+      "hold_days": 1
+    },
+    {
+      "id": 18,
+      "code": "sz000603",
+      "name": "盛达资源",
+      "buy_date": "2026-06-18",
+      "sell_date": "2026-06-23",
+      "buy_price": 26.34,
+      "sell_price": 24.8,
+      "quantity": 100,
+      "cost": 2634.0,
+      "revenue": 2480.0,
+      "profit": -157.22,
+      "profit_pct": -5.97,
+      "hold_days": 5
+    },
+    {
+      "id": 17,
+      "code": "sz002821",
+      "name": "凯莱英",
+      "buy_date": "2026-06-25",
+      "sell_date": "2026-06-26",
+      "buy_price": 150.165,
+      "sell_price": 152.5,
+      "quantity": 100,
+      "cost": 15016.5,
+      "revenue": 15250.0,
+      "profit": 213.68,
+      "profit_pct": 1.42,
+      "hold_days": 1
+    },
+    {
+      "id": 16,
+      "code": "sz002821",
+      "name": "凯莱英",
+      "buy_date": "2026-06-17",
+      "sell_date": "2026-06-24",
+      "buy_price": 113.705,
+      "sell_price": 140.275,
+      "quantity": 100,
+      "cost": 11370.5,
+      "revenue": 14027.5,
+      "profit": 2638.76,
+      "profit_pct": 23.21,
+      "hold_days": 7
+    },
+    {
+      "id": 15,
+      "code": "sz002008",
+      "name": "大族激光",
+      "buy_date": "2026-06-23",
+      "sell_date": "2026-06-26",
+      "buy_price": 145.11,
+      "sell_price": 151.27,
+      "quantity": 100,
+      "cost": 14511.0,
+      "revenue": 15127.0,
+      "profit": 596.33,
+      "profit_pct": 4.11,
+      "hold_days": 3
+    },
+    {
+      "id": 14,
+      "code": "sz002008",
+      "name": "大族激光",
+      "buy_date": "2026-06-16",
+      "sell_date": "2026-06-17",
+      "buy_price": 136.62,
+      "sell_price": 135.84,
+      "quantity": 100,
+      "cost": 13662.0,
+      "revenue": 13584.0,
+      "profit": -95.66,
+      "profit_pct": -0.7,
+      "hold_days": 1
+    },
+    {
+      "id": 13,
+      "code": "sz002491",
+      "name": "通鼎互联",
+      "buy_date": "2026-06-22",
+      "sell_date": "2026-06-23",
+      "buy_price": 34.0,
+      "sell_price": 33.68,
+      "quantity": 100,
+      "cost": 3400.0,
+      "revenue": 3368.0,
+      "profit": -36.38,
+      "profit_pct": -1.07,
+      "hold_days": 1
+    },
+    {
+      "id": 12,
+      "code": "sz002491",
+      "name": "通鼎互联",
+      "buy_date": "2026-06-16",
+      "sell_date": "2026-06-17",
+      "buy_price": 26.1,
+      "sell_price": 28.71,
+      "quantity": 100,
+      "cost": 2610.0,
+      "revenue": 2871.0,
+      "profit": 257.27,
+      "profit_pct": 9.86,
+      "hold_days": 1
+    },
+    {
+      "id": 11,
+      "code": "sh600378",
+      "name": "昊华科技",
+      "buy_date": "2026-06-29",
+      "sell_date": "2026-07-02",
+      "buy_price": 68.53,
+      "sell_price": 82.17,
+      "quantity": 100,
+      "cost": 6853.0,
+      "revenue": 8217.0,
+      "profit": 1353.32,
+      "profit_pct": 19.75,
+      "hold_days": 3
+    },
+    {
+      "id": 10,
+      "code": "sh600172",
+      "name": "黄河旋风",
+      "buy_date": "2026-07-06",
+      "sell_date": "2026-07-07",
+      "buy_price": 18.55,
+      "sell_price": 18.36,
+      "quantity": 100,
+      "cost": 1855.0,
+      "revenue": 1836.0,
+      "profit": -21.39,
+      "profit_pct": -1.15,
+      "hold_days": 1
+    },
+    {
+      "id": 9,
+      "code": "sh600172",
+      "name": "黄河旋风",
+      "buy_date": "2026-07-02",
+      "sell_date": "2026-07-03",
+      "buy_price": 18.03,
+      "sell_price": 16.86,
+      "quantity": 100,
+      "cost": 1803.0,
+      "revenue": 1686.0,
+      "profit": -119.19,
+      "profit_pct": -6.61,
+      "hold_days": 1
+    },
+    {
+      "id": 8,
+      "code": "sh600172",
+      "name": "黄河旋风",
+      "buy_date": "2026-06-24",
+      "sell_date": "2026-06-25",
+      "buy_price": 17.1,
+      "sell_price": 18.27,
+      "quantity": 100,
+      "cost": 1710.0,
+      "revenue": 1827.0,
+      "profit": 114.62,
+      "profit_pct": 6.7,
+      "hold_days": 1
+    },
+    {
+      "id": 7,
+      "code": "sh600172",
+      "name": "黄河旋风",
+      "buy_date": "2026-06-16",
+      "sell_date": "2026-06-22",
+      "buy_price": 12.9,
+      "sell_price": 15.41,
+      "quantity": 100,
+      "cost": 1290.0,
+      "revenue": 1541.0,
+      "profit": 249.0,
+      "profit_pct": 19.3,
+      "hold_days": 6
+    },
+    {
+      "id": 6,
+      "code": "sh600667",
+      "name": "太极实业",
+      "buy_date": "2026-06-26",
+      "sell_date": "2026-06-30",
+      "buy_price": 26.815,
+      "sell_price": 29.18,
+      "quantity": 100,
+      "cost": 2681.5,
+      "revenue": 2918.0,
+      "profit": 232.71,
+      "profit_pct": 8.68,
+      "hold_days": 4
+    },
+    {
+      "id": 5,
+      "code": "sz300390",
+      "name": "天华新能",
+      "buy_date": "2026-06-04",
+      "sell_date": "2026-06-16",
+      "buy_price": 78.73,
+      "sell_price": 95.72,
+      "quantity": 200,
+      "cost": 15746.0,
+      "revenue": 19144.0,
+      "profit": 3373.11,
+      "profit_pct": 21.42,
+      "hold_days": 12
+    },
+    {
+      "id": 4,
+      "code": "sz000725",
+      "name": "京东方Ａ",
+      "buy_date": "2026-06-05",
+      "sell_date": "2026-06-08",
+      "buy_price": 6.43,
+      "sell_price": 6.29,
+      "quantity": 300,
+      "cost": 1929.0,
+      "revenue": 1887.0,
+      "profit": -44.45,
+      "profit_pct": -2.3,
+      "hold_days": 3
+    },
+    {
+      "id": 3,
+      "code": "sh600522",
+      "name": "中天科技",
+      "buy_date": "2026-06-02",
+      "sell_date": "2026-06-04",
+      "buy_price": 42.89,
+      "sell_price": 46.06,
+      "quantity": 200,
+      "cost": 8578.0,
+      "revenue": 9212.0,
+      "profit": 622.02,
+      "profit_pct": 7.25,
+      "hold_days": 2
+    },
+    {
+      "id": 2,
+      "code": "sh600487",
+      "name": "亨通光电",
+      "buy_date": "2026-06-02",
+      "sell_date": "2026-06-03",
+      "buy_price": 83.12,
+      "sell_price": 91.43,
+      "quantity": 100,
+      "cost": 8312.0,
+      "revenue": 9143.0,
+      "profit": 819.11,
+      "profit_pct": 9.85,
+      "hold_days": 1
+    },
+    {
+      "id": 1,
+      "code": "sz001896",
+      "name": "豫能控股",
+      "buy_date": "2026-06-01",
+      "sell_date": "2026-06-04",
+      "buy_price": 17.65,
+      "sell_price": 22.09,
+      "quantity": 1000,
+      "cost": 17650.0,
+      "revenue": 22090.0,
+      "profit": 4411.28,
+      "profit_pct": 24.99,
+      "hold_days": 3
+    }
+  ],
+  "value_history": [
+    {
+      "date": "2026-06-01",
+      "cash": 2344.71,
+      "market_value": 17650.0,
+      "total": 19994.71,
+      "pnl_pct": -0.03
+    },
+    {
+      "date": "2026-06-02",
+      "cash": 16642.04,
+      "market_value": 8578.0,
+      "total": 25220.04,
+      "pnl_pct": 26.1
+    },
+    {
+      "date": "2026-06-03",
+      "cash": 25222.61,
+      "market_value": 0,
+      "total": 25222.61,
+      "pnl_pct": 26.11
+    },
+    {
+      "date": "2026-06-04",
+      "cash": 10046.31,
+      "market_value": 15746.0,
+      "total": 25792.31,
+      "pnl_pct": 28.96
+    },
+    {
+      "date": "2026-06-05",
+      "cash": 23912.48,
+      "market_value": 1929.0,
+      "total": 25841.48,
+      "pnl_pct": 29.21
+    },
+    {
+      "date": "2026-06-08",
+      "cash": 25797.03,
+      "market_value": 0,
+      "total": 25797.03,
+      "pnl_pct": 28.99
+    },
+    {
+      "date": "2026-06-16",
+      "cash": 29883.16,
+      "market_value": 4410.0,
+      "total": 34293.16,
+      "pnl_pct": 71.47
+    },
+    {
+      "date": "2026-06-17",
+      "cash": 20307.03,
+      "market_value": 11370.5,
+      "total": 31677.53,
+      "pnl_pct": 58.39
+    },
+    {
+      "date": "2026-06-18",
+      "cash": 35082.39,
+      "market_value": 0,
+      "total": 35082.39,
+      "pnl_pct": 75.41
+    },
+    {
+      "date": "2026-06-22",
+      "cash": 27825.1,
+      "market_value": 3400.0,
+      "total": 31225.1,
+      "pnl_pct": 56.13
+    },
+    {
+      "date": "2026-06-23",
+      "cash": 34367.45,
+      "market_value": 0,
+      "total": 34367.45,
+      "pnl_pct": 71.84
+    },
+    {
+      "date": "2026-06-24",
+      "cash": 34316.29,
+      "market_value": 0,
+      "total": 34316.29,
+      "pnl_pct": 71.58
+    },
+    {
+      "date": "2026-06-25",
+      "cash": 19295.29,
+      "market_value": 15016.5,
+      "total": 34311.79,
+      "pnl_pct": 71.56
+    },
+    {
+      "date": "2026-06-26",
+      "cash": 34525.46,
+      "market_value": 0,
+      "total": 34525.46,
+      "pnl_pct": 72.63
+    },
+    {
+      "date": "2026-06-29",
+      "cash": 22763.31,
+      "market_value": 6853.0,
+      "total": 29616.31,
+      "pnl_pct": 48.08
+    },
+    {
+      "date": "2026-06-30",
+      "cash": 29397.33,
+      "market_value": 0,
+      "total": 29397.33,
+      "pnl_pct": 46.99
+    },
+    {
+      "date": "2026-07-01",
+      "cash": 31825.69,
+      "market_value": 2541.0,
+      "total": 34366.69,
+      "pnl_pct": 71.83
+    },
+    {
+      "date": "2026-07-02",
+      "cash": 34294.48,
+      "market_value": 0,
+      "total": 34294.48,
+      "pnl_pct": 71.47
+    },
+    {
+      "date": "2026-07-03",
+      "cash": 29640.32,
+      "market_value": 0,
+      "total": 29640.32,
+      "pnl_pct": 48.2
+    },
+    {
+      "date": "2026-07-06",
+      "cash": 27784.76,
+      "market_value": 1855.0,
+      "total": 29639.76,
+      "pnl_pct": 48.2
+    },
+    {
+      "date": "2026-07-07",
+      "cash": 29618.37,
+      "market_value": 0,
+      "total": 29618.37,
+      "pnl_pct": 48.09
+    }
+  ],
+  "risk_rules": {
+    "global_stop_loss_pct": 15,
+    "single_position_pct": 100,
+    "commission_rate": 0.0003,
+    "stamp_tax": 0.001
+  },
+  "created_at": "2026-06-12 12:26:54"
+}
